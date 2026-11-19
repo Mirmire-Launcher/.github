@@ -37,7 +37,14 @@
 ### Screenshots
 
 <p align="center">
-  <img src="screenshots/11-home-ai.jpg" alt="Home page with Pixel Pal and AI" width="72%" />
+  <img src="screenshots/11-home-ai.jpg" alt="Home page with Pixel Pal and AI" width="48%" />
+  &nbsp;
+  <img src="screenshots/12-pixel-pal-ai.jpg" alt="Pixel Pal AI hints settings" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/13-pal-overlay.jpg" alt="Pixel Pal over a running game" width="48%" />
+  &nbsp;
+  <img src="screenshots/14-pal-chat.jpg" alt="Chat with Pixel Pal in-game" width="48%" />
 </p>
 <p align="center">
   <img src="screenshots/01-consoles.jpg" alt="Console carousel" width="48%" />
@@ -50,21 +57,11 @@
   <img src="screenshots/04-list.jpg" alt="List view with detail pane" width="48%" />
 </p>
 <p align="center">
-  <img src="screenshots/05-details.jpg" alt="Game details" width="48%" />
-  &nbsp;
-  <img src="screenshots/07-pixel-pet.jpg" alt="Pixel Pal options" width="48%" />
-</p>
-<p align="center">
-  <img src="screenshots/09-themes.jpg" alt="Console themes" width="48%" />
-  &nbsp;
-  <img src="screenshots/10-look.jpg" alt="Look and theme settings" width="48%" />
-</p>
-<p align="center">
   <img src="screenshots/08-dual-screen.jpg" alt="Dual-screen handheld layout" width="72%" />
 </p>
 
 <p align="center">
-  <sub>Home + Pixel Pal / AI · Consoles · Showcase · Grid · List · Details · Themes · Look · Dual screen</sub>
+  <sub>Home · Pal AI · Overlay · Chat · Consoles · Showcase · Grid · List · Dual screen</sub>
 </p>
 
 ---
