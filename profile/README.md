@@ -34,6 +34,41 @@
 
 ---
 
+### Screenshots
+
+<p align="center">
+  <img src="screenshots/01-consoles.jpg" alt="Console carousel" width="48%" />
+  &nbsp;
+  <img src="screenshots/02-showcase.jpg" alt="Showcase game carousel" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/03-grid.jpg" alt="Cover grid" width="48%" />
+  &nbsp;
+  <img src="screenshots/04-list.jpg" alt="List view with detail pane" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/05-details.jpg" alt="Game details" width="48%" />
+  &nbsp;
+  <img src="screenshots/06-home.jpg" alt="Home page widgets" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/07-pixel-pet.jpg" alt="Pixel Pet companion" width="48%" />
+  &nbsp;
+  <img src="screenshots/09-themes.jpg" alt="Console themes" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/08-dual-screen.jpg" alt="Dual-screen handheld layout" width="72%" />
+</p>
+<p align="center">
+  <img src="screenshots/10-look.jpg" alt="Look and theme settings" width="48%" />
+</p>
+
+<p align="center">
+  <sub>Consoles · Showcase · Grid · List · Details · Home · Pixel Pet · Themes · Dual screen · Look</sub>
+</p>
+
+---
+
 ### Why Mirmire
 
 **Mirmire** means *early dawn* in Nepali — a quiet start before a long session. Keep your library on a NAS or server, browse with a gamepad, scrape artwork lightly, sync saves, and launch into the emulator you already use.
