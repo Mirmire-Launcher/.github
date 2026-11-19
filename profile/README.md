@@ -39,12 +39,15 @@
 <p align="center">
   <img src="screenshots/11-home-ai.jpg" alt="Home page with Pixel Pal and AI" width="48%" />
   &nbsp;
-  <img src="screenshots/12-pixel-pal-ai.jpg" alt="Pixel Pal AI hints settings" width="48%" />
+  <img src="screenshots/15-settings-ai.jpg" alt="Settings AI on-device models" width="48%" />
 </p>
 <p align="center">
-  <img src="screenshots/13-pal-overlay.jpg" alt="Pixel Pal over a running game" width="48%" />
+  <img src="screenshots/12-pixel-pal-ai.jpg" alt="Pixel Pal AI hints settings" width="48%" />
   &nbsp;
   <img src="screenshots/14-pal-chat.jpg" alt="Chat with Pixel Pal in-game" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/13-pal-overlay.jpg" alt="Pixel Pal over a running game" width="72%" />
 </p>
 <p align="center">
   <img src="screenshots/01-consoles.jpg" alt="Console carousel" width="48%" />
@@ -61,7 +64,7 @@
 </p>
 
 <p align="center">
-  <sub>Home · Pal AI · Overlay · Chat · Consoles · Showcase · Grid · List · Dual screen</sub>
+  <sub>Home · Settings AI · Pal hints · Chat · Overlay · Consoles · Showcase · Grid · List · Dual screen</sub>
 </p>
 
 ---
