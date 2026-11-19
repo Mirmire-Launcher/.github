@@ -37,6 +37,9 @@
 ### Screenshots
 
 <p align="center">
+  <img src="screenshots/11-home-ai.jpg" alt="Home page with Pixel Pal and AI" width="72%" />
+</p>
+<p align="center">
   <img src="screenshots/01-consoles.jpg" alt="Console carousel" width="48%" />
   &nbsp;
   <img src="screenshots/02-showcase.jpg" alt="Showcase game carousel" width="48%" />
@@ -49,22 +52,19 @@
 <p align="center">
   <img src="screenshots/05-details.jpg" alt="Game details" width="48%" />
   &nbsp;
-  <img src="screenshots/06-home.jpg" alt="Home page widgets" width="48%" />
+  <img src="screenshots/07-pixel-pet.jpg" alt="Pixel Pal options" width="48%" />
 </p>
 <p align="center">
-  <img src="screenshots/07-pixel-pet.jpg" alt="Pixel Pet companion" width="48%" />
-  &nbsp;
   <img src="screenshots/09-themes.jpg" alt="Console themes" width="48%" />
+  &nbsp;
+  <img src="screenshots/10-look.jpg" alt="Look and theme settings" width="48%" />
 </p>
 <p align="center">
   <img src="screenshots/08-dual-screen.jpg" alt="Dual-screen handheld layout" width="72%" />
 </p>
-<p align="center">
-  <img src="screenshots/10-look.jpg" alt="Look and theme settings" width="48%" />
-</p>
 
 <p align="center">
-  <sub>Consoles · Showcase · Grid · List · Details · Home · Pixel Pet · Themes · Dual screen · Look</sub>
+  <sub>Home + Pixel Pal / AI · Consoles · Showcase · Grid · List · Details · Themes · Look · Dual screen</sub>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 | **Themes** | First Light bundled; import ZIPs and console icon packs |
 | **RetroAchievements** | Progress in the UI when you connect your account |
 | **Saves** | Keep progress moving with your library |
-| **Pixel Pal** | Optional companion overlay and widgets while you play |
+| **Pixel Pal & AI** | Companion on Home; optional tips, chat, and overlay while you play |
 
 ---
 
