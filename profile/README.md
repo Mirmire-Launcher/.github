@@ -71,12 +71,14 @@
 
 ### Why Mirmire
 
-**Mirmire** means *early dawn* in Nepali — a quiet start before a long session. Keep your library on a NAS or server, browse with a gamepad, scrape artwork lightly, sync saves, and launch into the emulator you already use.
+**Mirmire** means *early dawn* in Nepali — a quiet start before a long session. Keep your library on a NAS or server (or Drive/Dropbox via rclone), browse with a gamepad, scrape artwork lightly, sync saves, and launch into the emulator you already use.
 
 | | |
 |:---|:---|
-| **Network libraries** | SMB, WebDAV, FTP, SFTP — scan once, play from storage or cache on device |
+| **Network libraries** | SMB, WebDAV, FTP, SFTP, and **rclone** for Google Drive / Dropbox / OneDrive |
+| **Local ↔ storage** | Download on Play; upload local-only copies back to the NAS when missing |
 | **Built for pads & TVs** | Focus-first UI, Showcase / grid / list layouts, Steam Deck–friendly chrome |
+| **Emulator defaults** | DuckStation, Mupen64Plus FZ, WatermelonDS, ARMSX2 and friends when installed |
 | **Themes** | First Light bundled; import ZIPs and console icon packs |
 | **RetroAchievements** | Progress in the UI when you connect your account |
 | **Saves** | Keep progress moving with your library |
