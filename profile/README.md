@@ -45,6 +45,11 @@
   <img src="screenshots/03-pixel-pal.jpg" alt="Pixel Pal with AI hints" width="48%" />
 </p>
 <p align="center">
+  <img src="screenshots/12-home-welcome.jpg" alt="Pixel Pal welcoming you back after a game" width="48%" />
+  &nbsp;
+  <img src="screenshots/13-pal-chat.jpg" alt="Chat with Pixel Pal over a running game" width="48%" />
+</p>
+<p align="center">
   <img src="screenshots/05-consoles.jpg" alt="Console carousel" width="48%" />
   &nbsp;
   <img src="screenshots/06-showcase.jpg" alt="Showcase game carousel" width="48%" />
@@ -66,7 +71,7 @@
 </p>
 
 <p align="center">
-  <sub>Games list · Home · Pixel Pal · Consoles · Showcase · Grid · Details · Sync &amp; backup · AI · Big Picture · Dual screen</sub>
+  <sub>Games list · Home · Pixel Pal · Welcome back · Chat in-game · Consoles · Showcase · Grid · Details · Sync &amp; backup · AI · Big Picture · Dual screen</sub>
 </p>
 
 ---
@@ -114,3 +119,5 @@ Updates can be installed from **Settings → System → App updates** once a bui
   <sub>Dawn blue · gold · coral · rose</sub><br />
   <code>#101B33</code>&nbsp;&nbsp;<code>#FFB84D</code>&nbsp;&nbsp;<code>#FF795D</code>&nbsp;&nbsp;<code>#F25967</code>
 </p>
+
+<p align="center"><sub>Mirmire is a launcher only. It doesn't include or provide any games, ROMs or BIOS files: use it with games you own and have the right to play. Games appear in the screenshots for illustration only. DOOM is a registered trademark of id Software LLC, a ZeniMax Media company. Nintendo, Super Nintendo, Game Boy, Nintendo 64, SEGA, Mega Drive, Genesis, PlayStation, Xbox, Steam, RetroArch, and all other game titles, console names and trademarks belong to their respective owners. Game artwork comes from ScreenScraper and the Libretro thumbnail project and belongs to its respective owners. Mirmire is an independent project and isn't affiliated with or endorsed by any of these companies.</sub></p>
