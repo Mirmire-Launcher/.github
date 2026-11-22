@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="banner.png" alt="Mirmire — Retro game launcher for Android handhelds, phones and TVs" width="960" />
+  <img src="banner-2026.png" alt="Mirmire — Retro game launcher for Android handhelds, phones and TVs" width="960" />
 </p>
 
 <p align="center">
