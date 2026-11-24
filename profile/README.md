@@ -82,13 +82,18 @@
 
 | | |
 |:---|:---|
-| **Network libraries** | SMB, WebDAV, FTP, SFTP, and **rclone** for Google Drive / Dropbox / OneDrive |
+| **Network libraries** | SMB, WebDAV, FTP, SFTP, RomM, and **rclone** for Google Drive / Dropbox / OneDrive; away from home through Tailscale |
 | **Local ↔ storage** | Download on Play; upload local-only copies back to the NAS when missing |
 | **Built for pads & TVs** | Focus-first UI, Showcase / grid / list layouts, Steam Deck–friendly chrome |
 | **Emulator defaults** | DuckStation, Mupen64Plus FZ, WatermelonDS, ARMSX2 and friends when installed |
 | **Themes** | First Light bundled; import ZIPs and console icon packs |
 | **RetroAchievements** | Progress in the UI when you connect your account |
-| **Saves** | Keep progress moving with your library |
+| **Saves** | Sync with your storage or through Syncthing; conflicts ask which save to keep |
+| **BIOS checker** | Every file each emulator needs, checked by checksum, with the folder it belongs in |
+| **Parental controls** | Age ratings, daily play time and a parent PIN for children's profiles |
+| **PC streaming** | Moonlight, Artemis and Steam Link games in their own Streaming console |
+| **Home Assistant** | Lights and scenes that follow what you play |
+| **Bring your library** | Favorites, play time and collections from Pegasus and LaunchBox |
 | **Pixel Pal & AI** | Companion on Home; optional tips, chat, and overlay while you play |
 
 ---
