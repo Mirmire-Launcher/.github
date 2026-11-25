@@ -95,6 +95,7 @@
 | **Home Assistant** | Lights and scenes that follow what you play |
 | **Bring your library** | Favorites, play time and collections from Pegasus and LaunchBox |
 | **Pixel Pal & AI** | Companion on Home; optional tips, chat, and overlay while you play |
+| **3D Big Picture** | Optional [Mirmire Cartouche](https://github.com/Mirmire-Launcher/mirmire-cartouche): consoles in 3D, games on their discs and cartridges, built on [Cartouche](https://github.com/Hakimba/cartouche) by Hakimba |
 
 ---
 
@@ -113,6 +114,7 @@ Updates can be installed from **Settings → System → App updates** once a bui
 | Repo | What it is |
 |:---|:---|
 | **[mirmire](https://github.com/Mirmire-Launcher/mirmire)** | Public downloads — signed APKs and release notes |
+| **[mirmire-cartouche](https://github.com/Mirmire-Launcher/mirmire-cartouche)** | Mirmire Cartouche, the 3D Big Picture: a GPL fork of [Cartouche](https://github.com/Hakimba/cartouche), source and APKs |
 
 ---
 
